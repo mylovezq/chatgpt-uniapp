@@ -1,3 +1,6 @@
+# 基于下面大佬的源码，接入openAi4J，模型是chatGPT4-mini
+# 体验地址 https://s10.v100.vip:5200
+
 ## 前言
 ### 🍊缘由
 #### 想让没体验过chatGPT的小伙伴，学习对接并复刻出自己的chatGPT
